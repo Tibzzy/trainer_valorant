@@ -2,7 +2,7 @@
 
 Project that uses colors to create trigger bot with arduino to make shots and noRecoil
 
-## Comandos
+## Commands
 
 [eng]
 F1 = Enable the noRecoil
